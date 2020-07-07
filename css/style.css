@@ -1,3 +1,82 @@
 body{
     margin: 0;
 }
+.container{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.col-md-5{
+     padding: 0px 30px 0px 60px;
+}
+
+
+h1{
+    text-transform: capitalize;
+    padding: 30px 0px 30px 0px;
+    
+}
+.btn{
+    text-transform: uppercase;
+    background-color: black;
+    color: white;
+    width: 150px;
+}
+p{
+    text-align: justify;
+}
+.smartphone,
+.laptop {
+    padding: 30px 35px 30px 0px;
+
+}
+h4{
+    color: tomato;
+}
+.d-block{
+    padding: 30px 30px 30px 30px;
+}
+
+.card-footer{
+    border: none;
+    background-color: white;
+   padding: 20px 0px;
+}
+.card{
+    border: none;
+    border-radius: 8px;
+    box-shadow: 5px 5px 10px gray;
+}
+.catagories{
+   
+    margin-bottom: 30px;
+}
+#catagories{
+    border-bottom: 10px solid tomato;
+    border-radius: 5px;
+}
+.cat-img{
+    padding: 40px 50px 40px 50px;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+.beauty{
+    margin-bottom: 40px;
+   border-top-left-radius: 35px;
+   border-bottom-right-radius: 35px;
+}
+.shoes {
+    border-top-left-radius: 35px;
+    border-bottom-right-radius: 35px;
+}
+.bag {
+    border-top-right-radius: 35px;
+    border-bottom-left-radius: 35px;
+}
+h6{
+    padding: 30px 0px 0px 0px;
+    text-transform: capitalize;
+    font-size: 22px;
+}
+footer p{
+    text-align: center;
+    color: lightgray;
+}
